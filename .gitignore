@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Base de dados e dados gerados
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Logs e relatorios gerados
+logs/*.jsonl
+reports/*.html
+reports/*.csv
+
+# Sistema operativo e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
